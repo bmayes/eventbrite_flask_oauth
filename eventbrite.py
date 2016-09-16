@@ -9,8 +9,8 @@ oauth = OAuth(app)
 
 eventbrite = oauth.remote_app(
     'eventbrite',
-    consumer_key='PF5OU4GNVB3NG4KTAR',
-    consumer_secret='US7PQLMCPLLY67EEJR5YVC35JMW2F3YFF63IOHFTFVIZ2PEJ6B',
+    consumer_key='[your key]',
+    consumer_secret='[your secret]',
     base_url='https://www.eventbriteapi.com/',
     request_token_url=None,
     access_token_method='POST',
