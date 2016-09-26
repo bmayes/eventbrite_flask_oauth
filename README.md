@@ -1,8 +1,8 @@
-+Simple flask app to show+:
+#Simple flask app to show
  * How to get OAuth auth key on behalf of a user.
  * How to use that credential to make requests on behalf of that user.
 
-+How to start and use the server+
+#How to start and use the server
 
  1. Git Clone the code.
  1. pip install the requirements in requirements.txt
